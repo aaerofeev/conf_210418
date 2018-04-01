@@ -8,7 +8,7 @@ import (
 )
 
 func TestHTTP(t *testing.T) {
-	expected := "<h1>3-комнатная квартира, 25 м², Абая - Жарокова</h1><p>Чисто, есть кондиционер</p>"
+	expected := "<h1>3-комнатная квартира, 35 м², Абая - Жарокова</h1><p>Чисто, есть кондиционер</p>"
 	server := httptest.NewServer(mux())
 	defer server.Close()
 	
