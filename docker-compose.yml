@@ -1,0 +1,21 @@
+version: '3.2'
+
+services:
+  app:
+    image: golang:1.10-alpine
+    container_name: conference-service
+    working_dir: /go/src
+    volumes:
+      - "./:/go/src:Z"
+    depends_on:
+      - mongo
+    command: "go test -v ./..."
+
+  mongo:
+    image: mongo:3.6
+    container_name: mongo-dependency
+    volumes:
+      - "mongo:/data/db:Z"
+
+volumes:
+  mongo:

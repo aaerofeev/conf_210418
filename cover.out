@@ -1,4 +1,21 @@
 mode: set
-kolesa-team.org/conference/advert.go:14.41,15.47 1 1
-kolesa-team.org/conference/advert.go:20.2,20.27 1 1
-kolesa-team.org/conference/advert.go:15.47,18.3 2 1
+github.com/aaerofeev/conference/advert.go:18.41,19.45 1 1
+github.com/aaerofeev/conference/advert.go:24.2,24.27 1 1
+github.com/aaerofeev/conference/advert.go:19.45,22.3 2 1
+github.com/aaerofeev/conference/datalayer.go:5.63,7.2 1 1
+github.com/aaerofeev/conference/http.go:8.54,10.2 1 1
+github.com/aaerofeev/conference/http.go:12.27,17.2 3 1
+github.com/aaerofeev/conference/http.go:19.18,21.2 1 0
+github.com/aaerofeev/conference/mock.go:9.43,11.2 1 1
+github.com/aaerofeev/conference/mock.go:17.55,21.2 2 1
+github.com/aaerofeev/conference/table.go:8.41,9.17 1 1
+github.com/aaerofeev/conference/table.go:13.2,13.39 1 1
+github.com/aaerofeev/conference/table.go:9.17,11.3 1 1
+github.com/aaerofeev/conference/title.go:5.40,12.2 1 1
+github.com/aaerofeev/conference/bench.go:29.55,33.26 3 0
+github.com/aaerofeev/conference/bench.go:39.2,39.46 1 0
+github.com/aaerofeev/conference/bench.go:33.26,34.87 1 0
+github.com/aaerofeev/conference/bench.go:34.87,36.4 1 0
+github.com/aaerofeev/conference/interface.go:8.28,10.2 1 0
+github.com/aaerofeev/conference/interface.go:12.30,14.2 1 0
+github.com/aaerofeev/conference/main.go:5.13,7.2 1 0
