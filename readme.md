@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/aaerofeev/conference_200418.svg?branch=master)](https://travis-ci.org/aaerofeev/conference_200418)
+(Презентация)[https://drive.google.com/open?id=1KiEJ-YPXcbLfKIJ1jmfzLqpA-0sZfSlC-zrEmu0F2cA]
